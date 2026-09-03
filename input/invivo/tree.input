@@ -1,0 +1,10 @@
+number_vessels	7
+#   cm      mm      mm      cm/s    #  
+n	length	r_in	r_out 	c_avg    tag
+1	6.58	12.3	12.3	456	    AoI
+2	0.57	12.3	11.8	456	    AoII
+3	1.33	11.8	10.9	456	    AoIII
+4	3.58	10.9	10.6	456	    AoIV
+5	4.20	7.0 	4.3	    456	    BrCeph
+6	3.23	5.1	    2.9	    456	    LCCar
+7	3.31	5.3	    3.4	    456	    LSubcl

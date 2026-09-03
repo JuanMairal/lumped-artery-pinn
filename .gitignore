@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+output/
+vram_log.csv
+
+.venv/
+venv/
